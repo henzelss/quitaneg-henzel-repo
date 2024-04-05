@@ -1,1 +1,3 @@
-ECHO is on.
+
+
+console.log('sample')
